@@ -7,6 +7,7 @@ Initial Aspects *(01-28-2019)*
 Why does git matter? How often is it used in the field? First hand proof of it being used in the field.
 
 * Creating a Repo
+* Config
 * Add
 * Commit
 * Push
