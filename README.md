@@ -19,3 +19,6 @@ Why does git matter? How often is it used in the field? First hand proof of it b
 * Branch
 * Checkout
 * Remote
+* Conflict Resolution
+
+Possibly talk briefly about other version control software like TFS?
