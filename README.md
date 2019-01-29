@@ -8,17 +8,54 @@ Why does git matter? How often is it used in the field? First hand proof of it b
 
 * Creating a Repo
 * Config
+  ```
+  git config user.name
+  git config user.email
+  ```
 * Add
+  ```
+  git add
+  ```
 * Commit
+  ```
+  git commit
+  ```
 * Push
+  ```
+  git push
+  ```
 * Pull
+  ```
+  git pull
+  ```
 * Fetch
+  ```
+  git fetch
+  ```
 * Status
+  ```
+  git status
+  ```
 * Show
+  ```
+  git show
+  ```
 * Stash and Pop
+  ```
+  git stash
+  ```
 * Branch
+  ```
+  git branch
+  ```
 * Checkout
+  ```
+  git checkout
+  ```
 * Remote
+  ```
+  git remote
+  ```
 * Conflict Resolution
 
 Possibly talk briefly about other version control software like TFS?
