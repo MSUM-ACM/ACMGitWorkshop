@@ -32,6 +32,10 @@ Why does git matter? How often is it used in the field? First hand proof of it b
   ```
   git fetch
   ```
+* Reset
+```
+git reset
+```
 * Status
   ```
   git status
