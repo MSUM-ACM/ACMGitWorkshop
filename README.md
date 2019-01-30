@@ -33,9 +33,9 @@ Why does git matter? How often is it used in the field? First hand proof of it b
   git fetch
   ```
 * Reset
-```
-git reset
-```
+  ```
+  git reset
+  ```
 * Status
   ```
   git status
@@ -47,6 +47,7 @@ git reset
 * Stash and Pop
   ```
   git stash
+  git stash pop
   ```
 * Branch
   ```
