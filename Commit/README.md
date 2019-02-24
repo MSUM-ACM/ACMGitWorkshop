@@ -1,4 +1,4 @@
-# Commiting an index
+# Committing an index
 
 This directory is for the introduction and instructions for adding file contents to the Git index.
 
