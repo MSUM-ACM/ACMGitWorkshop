@@ -1,4 +1,3 @@
-# Adding file contents to the index
 
 Link to Git Model Theory
 -
