@@ -4,7 +4,7 @@ This repository is for the ACM Git Version Control Workshop. The workshop will b
 Initial Aspects *(02-26-2019)*
 -
 
-#### Why does git matter?
+### Why does git matter?
 - Git increases reliability of the following aspects:
     - Repository reliability
     - Development consistency
@@ -25,7 +25,7 @@ Git points out what is different and where when dealing with conflict resolution
 developers would have to sit down and follow through the execution and implementation to find out what
 had been added or removed and address it.
  
-#### How often is it used in the field?
+### How often is it used in the field?
 
 As of today, nearly every company uses Git or some type of version control. The developers at these
 companies use Git everyday, multiple times a day, in order to maintain a reliable code base and
