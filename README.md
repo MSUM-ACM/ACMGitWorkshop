@@ -75,6 +75,8 @@ collaborate with other developers.
   git remote
   ```
   
+### More information can be found on the git Reference page [here](https://git-scm.com/docs)
+  
 ### TODO
 * Creating a Repo
 * Conflict Resolution
