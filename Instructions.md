@@ -51,3 +51,5 @@
     - "tested by QA"
     - Merge into release
     - Merge into master
+
+6. [First hand proof of field usage](https://github.com/journeyapps/zxing-android-embedded/network)
