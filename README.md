@@ -1,8 +1,8 @@
 # ACMGitWorkshop
 This repository is for the ACM Git Version Control Workshop. The workshop will be demonstrated by Kyle Fiala, an MSUM Alumni and Software Engineer on February 27th and 28th, 2019.
 
-Initial Aspects *(02-26-2019)*
--
+# Initial Aspects *(02-26-2019)*
+
 
 ### Why does git matter?
 - Git increases reliability of the following aspects:
@@ -31,7 +31,7 @@ As of today, nearly every company uses Git or some type of version control. The 
 companies use Git everyday, multiple times a day, in order to maintain a reliable code base and
 collaborate with other developers.
 
-List of useful commands:
+### List of useful commands:
   ```
   git config user.name <name>
   git config user.email <email>
@@ -75,7 +75,7 @@ List of useful commands:
   git remote
   ```
   
-TODO
+### TODO
 * Creating a Repo
 * Conflict Resolution
 * Possibly talk briefly about other version control software like TFS?
