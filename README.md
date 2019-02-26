@@ -1,7 +1,7 @@
 # ACMGitWorkshop
 This repository is for the ACM Git Version Control Workshop. The workshop will be demonstrated by Kyle Fiala, an MSUM Alumni and Software Engineer on February 27th and 28th, 2019.
 
-Initial Aspects *(01-28-2019)*
+Initial Aspects *(02-26-2019)*
 -
 
 Why does git matter?
