@@ -31,23 +31,23 @@
     ```
     
 5. Students repeat demo
-- Students Branch
+    - Students Branch
     ```
     git branch yourNameHere
     ```
     
-- Students add a line
+    - Students add a line
     ```cs
     Console.WriteLine("yourNameHere");
     ```
-- Students Push to repository
+    - Students Push to repository
     ```
     git add *
     git commit -m "Added yourNameHere to the file"
     git push --set-upstream origin yourNameHere
     ```
-- Go through Pull Requests
-- Merging back into dev
-- "tested by QA"
-- Merge into release
-- Merge into master
+    - Go through Pull Requests
+    - Merging back into dev
+    - "tested by QA"
+    - Merge into release
+    - Merge into master
