@@ -2,8 +2,18 @@
 
 1. Git Config
 - Walk through students
+  ```
+  git config user.name JohnDoe123
+  git config user.email doejo@mnstate.edu
+  ```
+  
 2. Git Clone
 - Walk through students
+    ```
+    git clone https://
+    ```
+
+
 3. Git Branch
 - Theory Talk
 4. Demo bug fix
