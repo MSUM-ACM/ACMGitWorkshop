@@ -31,16 +31,17 @@ As of today, nearly every company uses Git or some type of version control. The 
 companies use Git everyday, multiple times a day, in order to maintain a reliable code base and
 collaborate with other developers.
 
-* Creating a Repo
+List of useful commands:
   ```
-  git config user.name
-  git config user.email
+  git config user.name <name>
+  git config user.email <email>
   ```
   ```
   git add
   ```
   ```
   git commit
+  git commit -m "<message>"
   ```
   ```
   git push
@@ -73,6 +74,8 @@ collaborate with other developers.
   ```
   git remote
   ```
+  
+TODO
+* Creating a Repo
 * Conflict Resolution
-
-Possibly talk briefly about other version control software like TFS?
+* Possibly talk briefly about other version control software like TFS?
