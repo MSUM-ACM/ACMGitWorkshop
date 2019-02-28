@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! I promise there are no bugs in this branch");
+            Console.WriteLine("Hello World! Add my feature, actually test it. There are no bugs.");
             Console.ReadLine();
         }
     }
